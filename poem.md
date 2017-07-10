@@ -1,19 +1,21 @@
-I marvel how Nature could ever find space
+# Character
+
+> **I marvel** how Nature could ever find space
 For so many strange contrasts in one human face:
 There's thought and no thought, and there's paleness and bloom
 And bustle and sluggishness, pleasure and gloom.
 
-There's weakness, and strength both redundant and vain;
+> **There's weakness**, and strength both redundant and vain;
 Such strength as, if ever affliction and pain
 Could pierce through a temper that's soft to disease,
 Would be rational peace, a philosopher's ease.
 
-There's indifference, alike when he fails or succeeds,
+> **There's indifference**, alike when he fails or succeeds,
 And attention full ten times as much as there needs;
 Pride where there's no envy, there's so much of joy;
 And mildness, and spirit both forward and coy.
 
-There's freedom, and sometimes a diffident stare
+> **There's freedom**, and sometimes a diffident stare
 Of shame scarcely seeming to know that she's there,
 There's virtue, the title it surely may claim,
 Yet wants heaven knows what to be worthy the name.
@@ -22,3 +24,7 @@ This picture from nature may seem to depart,
 Yet the Man would at once run away with your heart;
 And I for five centuries right gladly would be
 Such an odd such a kind happy creature as he.
+
+By _William Wordsworth_
+
+Retrieved from http://www.public-domain-poetry.com/william-wordsworth/character-3798
